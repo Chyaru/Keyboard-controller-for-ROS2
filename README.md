@@ -13,4 +13,4 @@ Maintain the BlockMayus on.
 * R -> decrease speed -0.1
 * Q -> exit
 
-It only moves in one sence. Not linear + angular twice. In case you would.
+It only moves in one sence. Not linear + angular twice. In case you want to, you could change the code in the src/bumperbot_controller/src/teclado.cpp.

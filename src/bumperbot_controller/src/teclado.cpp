@@ -44,9 +44,9 @@ void ControladorTeclado::callb(){
             y = 0;
         }else if(x=='S'){
             y=1;
-        }else if(x=='D'){
-            y=2;
         }else if(x=='A'){
+            y=2;
+        }else if(x=='D'){
             y=3;
         }else if(x=='Q'){
             y=4;
